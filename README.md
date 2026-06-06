@@ -1,81 +1,69 @@
 <div align="center">
 
-# ✨ Praveen Lakshan
+<!-- Dynamic Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Hi,+I'm+Praveen+Lakshan;Co-Founder+%40+LexoraTech;Full-Stack+Software+Engineer;Crafting+Premium+Digital+Experiences" alt="Typing Header" />
 
-**Co-Founder at LexoraTech | Software Engineer**
+<p align="center">
+  <a href="mailto:praveenlakshan05@gmail.com">
+    <img src="https://img.shields.io/badge/Connect_via_Email-0B162C?style=for-the-badge&logo=gmail&logoColor=D4AF37&border=D4AF37" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0B162C?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
+  </a>
+</p>
 
-⚡ *Transforming Complex Logic into Premium Digital Experiences* ⚡
+---
+
+</div>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="55%" style="border: none; vertical-align: top;">
+      <h2 style="color: #D4AF37;">Executive Overview</h2>
+      <p>I am a final-year software engineering student in Sri Lanka and the Co-Founder of <b>LexoraTech</b>. I bridge the gap between technical architecture and business value, specializing in robust mobile ecosystems, AI-driven full-stack development, and high-end UI/UX paradigms.</p>
+      <br>
+      <h2 style="color: #D4AF37;">Currently Architecting</h2>
+      <ul>
+        <li>🏆 <b>Kapruka Agent Challenge '26:</b> Building a full-screen, generative AI shopping agent utilizing <b>Next.js</b>, the Vercel AI SDK, and MCP infrastructure for seamless e-commerce checkout.</li>
+        <li>🌌 <b>Nimithi (නිමිති):</b> Lead architect for a premium AI-driven AstroVedic platform, engineered for sub-second intelligence streaming and styled with royal blue/gold aesthetics.</li>
+        <li>🚗 <b>ParkFast:</b> Finalizing a sophisticated location-intelligent mobile m-commerce application designed to streamline university/city parking infrastructure.</li>
+      </ul>
+    </td>
+    <td width="45%" style="border: none; vertical-align: top;" align="center">
+      <!-- Custom Gold/Dark Blue Stat Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&hide_border=true&bg_color=0B162C&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37" alt="GitHub Stats" width="100%" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenLakshan&hide_border=true&background=0B162C&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenlakshan05@gmail.com)
-
+<div align="center">
+  <h2 style="color: #D4AF37;">Engineering Ecosystem & Arsenal</h2>
+  <br>
+  
+  <!-- Premium Badge Grid -->
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-0B162C?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Kotlin-0B162C?style=for-the-badge&logo=kotlin&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Android_Studio-0B162C?style=for-the-badge&logo=android-studio&logoColor=D4AF37" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-0B162C?style=for-the-badge&logo=php&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/SQLite-0B162C?style=for-the-badge&logo=sqlite&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-0B162C?style=for-the-badge&logo=intellij-idea&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
 </div>
 
 <br>
-
-## 🌐 Executive Summary
-
-I am a final-year software engineering student based in Sri Lanka and a co-founder of **LexoraTech**. I specialize in architectural design, robust mobile ecosystems, and full-stack software integration. I bridge technical craftsmanship with commercial scalability, focusing heavily on fluid UI/UX paradigms, high-performance agentic frameworks, and premium aesthetics. 
-
----
-
-## 🚀 Active Ventures & Flagship Systems
-
-### 🛒 Kapruka AI Shopping Agent
-Currently developing an innovative, full-screen conversational shopping agent for the 2026 Kapruka Agent Challenge. Leveraging live e-commerce infrastructure to create a seamless, end-to-end user journey from product discovery to guest checkout.
-- **Tech Ecosystem:** Next.js, Vercel AI SDK, Model Context Protocol (MCP), Generative UI
-
-### 🌌 Nimithi (නිමිති) — *AI-Driven AstroVedic Platform*
-An innovative web ecosystem integrating traditional computational astrology with advanced machine learning frameworks. Built with a hyper-premium, high-end design aesthetic—utilizing deep royal blue and metallic gold palettes—to deliver sub-second intelligence streaming.
-- **Role:** Full-Stack & UI Architect
-- **Tech Ecosystem:** Next.js, Agentic AI, Premium UI Styling
-
-### 📦 ParkFast — *Next-Gen Mobile M-Commerce*
-A robust, location-intelligent mobile application designed to streamline parking infrastructure. Features complex background processing pipelines, university-grade architectural standards, and real-time map synchronization.
-- **Role:** Lead Engineer
-- **Tech Ecosystem:** Android Studio, Kotlin/Java, SQLite, Core PHP APIs
-
----
-
-## 🛠️ Technical Ecosystem & Toolkit
-
-### 💻 Core Languages & Web Architecture
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 📱 Mobile & Core Frameworks
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### 🗄️ Backend Infrastructure & Environments
-![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 Git Engine Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenLakshan&theme=tokyonight&hide_border=true&ring=3178C6&fire=3178C6" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenLakshan&theme=tokyonight&no-bg=true&margin-w=15" alt="PraveenLakshan Trophies" />
-</div>
 
 ---
 
 <div align="center">
   <p><i>Continually pushing software patterns, system scalability, and preparing for an MSc in Software Engineering.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=PraveenLakshan&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="Profile Views" />
 </div>
