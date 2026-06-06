@@ -1,69 +1,78 @@
 <div align="center">
+  <!-- Upek-style visual banner customized with your premium color palette -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B162C&height=250&section=header&text=Praveen%20Lakshan&fontSize=70&fontAlignY=35&desc=Transforming%20Logic%20Into%20Premium%20Experiences&descAlignY=55&descSize=20&fontColor=D4AF37" alt="Header" />
+</div>
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Hi,+I'm+Praveen+Lakshan;Co-Founder+%40+LexoraTech;Full-Stack+Software+Engineer;Crafting+Premium+Digital+Experiences" alt="Typing Header" />
+## Hey 👋 it's Praveen,
 
-<p align="center">
-  <a href="mailto:praveenlakshan05@gmail.com">
-    <img src="https://img.shields.io/badge/Connect_via_Email-0B162C?style=for-the-badge&logo=gmail&logoColor=D4AF37&border=D4AF37" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn_Network-0B162C?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
-  </a>
+*   BSc (Hons) Final-Year Software Engineering Undergraduate.
+*   Co-Founder at **LexoraTech**.
+*   Passionate about building scalable m-commerce apps and AI-driven platforms.
+*   Experience in bridging technical architecture with high-end, premium UI/UX design.
+
+Welcome to my GitHub portfolio, where you'll find a collection of my projects showcasing my skills and passion for software development. *Let's build the future together!*
+
+---
+
+### 💻 Skills Overview 
+
+**Programming Languages**
+![Java](https://img.shields.io/badge/JAVA-90%25-D4AF37?style=flat-square&logo=java&logoColor=white&labelColor=0B162C)
+![Kotlin](https://img.shields.io/badge/KOTLIN-85%25-D4AF37?style=flat-square&logo=kotlin&logoColor=white&labelColor=0B162C)
+![PHP](https://img.shields.io/badge/PHP-80%25-D4AF37?style=flat-square&logo=php&logoColor=white&labelColor=0B162C)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-75%25-D4AF37?style=flat-square&logo=typescript&logoColor=white&labelColor=0B162C)
+
+**Web & Mobile Architecture**
+![Next.js](https://img.shields.io/badge/NEXT.JS-85%25-D4AF37?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0B162C)
+![Android SDK](https://img.shields.io/badge/ANDROID_SDK-90%25-D4AF37?style=flat-square&logo=android&logoColor=white&labelColor=0B162C)
+![Generative UI](https://img.shields.io/badge/GENERATIVE_UI-70%25-D4AF37?style=flat-square&logo=vercel&logoColor=white&labelColor=0B162C)
+
+---
+
+### Tech-stack 💻:
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0B162C?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Kotlin-0B162C?style=for-the-badge&logo=kotlin&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Android_Studio-0B162C?style=for-the-badge&logo=android-studio&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/PHP-0B162C?style=for-the-badge&logo=php&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/SQLite-0B162C?style=for-the-badge&logo=sqlite&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0B162C?style=for-the-badge&logo=intellij-idea&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Git-0B162C?style=for-the-badge&logo=git&logoColor=D4AF37" />
 </p>
 
 ---
 
-</div>
+### 🚀 Featured Projects
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="55%" style="border: none; vertical-align: top;">
-      <h2 style="color: #D4AF37;">Executive Overview</h2>
-      <p>I am a final-year software engineering student in Sri Lanka and the Co-Founder of <b>LexoraTech</b>. I bridge the gap between technical architecture and business value, specializing in robust mobile ecosystems, AI-driven full-stack development, and high-end UI/UX paradigms.</p>
-      <br>
-      <h2 style="color: #D4AF37;">Currently Architecting</h2>
-      <ul>
-        <li>🏆 <b>Kapruka Agent Challenge '26:</b> Building a full-screen, generative AI shopping agent utilizing <b>Next.js</b>, the Vercel AI SDK, and MCP infrastructure for seamless e-commerce checkout.</li>
-        <li>🌌 <b>Nimithi (නිමිති):</b> Lead architect for a premium AI-driven AstroVedic platform, engineered for sub-second intelligence streaming and styled with royal blue/gold aesthetics.</li>
-        <li>🚗 <b>ParkFast:</b> Finalizing a sophisticated location-intelligent mobile m-commerce application designed to streamline university/city parking infrastructure.</li>
-      </ul>
-    </td>
-    <td width="45%" style="border: none; vertical-align: top;" align="center">
-      <!-- Custom Gold/Dark Blue Stat Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&hide_border=true&bg_color=0B162C&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37" alt="GitHub Stats" width="100%" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenLakshan&hide_border=true&background=0B162C&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+*   **Kapruka AI Shopping Agent**
+    A full-screen, generative AI shopping agent built for the 2026 Kapruka Agent Challenge, featuring a seamless end-to-end user journey from product discovery to guest checkout via Model Context Protocol.
+    Tech: Next.js, Vercel AI SDK, MCP
+    Repo: 👉 [github.com/PraveenLakshan/kapruka-agent](#)
 
-<br>
+*   **Nimithi (නිමිති)**
+    An innovative AI-driven AstroVedic web platform integrating traditional computational astrology with advanced machine learning frameworks, designed with high-end premium aesthetics.
+    Tech: Next.js, Agentic AI, UI/UX
+    Repo: 👉 [github.com/PraveenLakshan/nimithi](#)
 
-<div align="center">
-  <h2 style="color: #D4AF37;">Engineering Ecosystem & Arsenal</h2>
-  <br>
-  
-  <!-- Premium Badge Grid -->
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-0B162C?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/Kotlin-0B162C?style=for-the-badge&logo=kotlin&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/Android_Studio-0B162C?style=for-the-badge&logo=android-studio&logoColor=D4AF37" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/PHP-0B162C?style=for-the-badge&logo=php&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/SQLite-0B162C?style=for-the-badge&logo=sqlite&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-0B162C?style=for-the-badge&logo=intellij-idea&logoColor=D4AF37" />
-    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</div>
-
-<br>
+*   **ParkFast – Mobile M-Commerce**
+    A location-intelligent mobile application to streamline university and city parking infrastructure. Features robust background processing pipelines and real-time map synchronization.
+    Tech: Android Studio, Kotlin, SQLite, Core PHP
+    Repo: 👉 [github.com/PraveenLakshan/parkfast](#)
 
 ---
 
+### Github Stats! 🕵️‍♂️:
 <div align="center">
-  <p><i>Continually pushing software patterns, system scalability, and preparing for an MSc in Software Engineering.</i></p>
-  <img src="https://komarev.com/ghpvc/?username=PraveenLakshan&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&hide_border=true&bg_color=0B162C&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenLakshan&hide_border=true&background=0B162C&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff" width="48%" />
 </div>
+
+<br>
+
+### Reach me! 💬:
+<p>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0B162C?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+  <a href="mailto:praveenlakshan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B162C?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0B162C?style=for-the-badge&logo=dev.to&logoColor=D4AF37" alt="Portfolio"/></a>
+</p>
