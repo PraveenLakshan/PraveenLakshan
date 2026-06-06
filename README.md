@@ -184,9 +184,9 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 
 ## 🚀 Current Flagship Initiatives
 
-<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Premium_Web-D4AF37?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/E--Commerce-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Premium_Web-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product_Platform-D4AF37?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/Mobile_Product-7C3AED?style=for-the-badge" />
 
 <br/><br/>
@@ -195,16 +195,16 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/FLAGSHIP_01-111827?style=for-the-badge&logo=shoppingcart&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/FLAGSHIP_01-111827?style=for-the-badge&logo=shopify&logoColor=D4AF37" />
 
 <br/><br/>
 
-<h3>🛒 Kapruka AI Shopping Agent</h3>
+<h3>🛍️ Lexora Store</h3>
 
-<img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=flat-square" />
-<img src="https://img.shields.io/badge/E--Commerce-D4AF37?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative_UI-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Online_Store-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/E--Commerce-1E3A8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Sri_Lanka-D4AF37?style=flat-square" />
+<img src="https://img.shields.io/badge/Secure_Checkout-111827?style=flat-square" />
 
 <br/><br/>
 
@@ -212,23 +212,25 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 
 <br/><br/>
 
-An <b>MCP-Powered Conversational E-Commerce Agent</b> Designed For The <b>2026 Kapruka Agent Challenge</b>.
+A <b>Premium Online Store</b> Built For Desk, School, Office, Tech, Gift, And Everyday Essentials With Island-Wide Delivery Across Sri Lanka.
 
 <br/><br/>
 
 <table width="100%">
 <tr><td align="center"><b>Core Focus</b></td></tr>
-<tr><td align="center">Conversational Shopping</td></tr>
-<tr><td align="center">MCP Architecture</td></tr>
-<tr><td align="center">Product Discovery Intelligence</td></tr>
-<tr><td align="center">Agentic Workflows</td></tr>
-<tr><td align="center">Generative UI Responses</td></tr>
-<tr><td align="center">E-Commerce Automation</td></tr>
+<tr><td align="center">Premium Tech Products</td></tr>
+<tr><td align="center">Office And School Essentials</td></tr>
+<tr><td align="center">Digital Gift Cards</td></tr>
+<tr><td align="center">Island-Wide Delivery</td></tr>
+<tr><td align="center">Secure Checkout Experience</td></tr>
+<tr><td align="center">Customer-Focused Online Shopping</td></tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Commerce_Intelligence-0F172A?style=for-the-badge&logo=target&logoColor=D4AF37" />
+<a href="https://www.lexoratech.store/">
+  <img src="https://img.shields.io/badge/Visit_Lexora_Store-0F172A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+</a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -1139,3 +1141,4 @@ Become A High-Level Software Engineer And Product Architect
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,45:1E3A8A,100:D4AF37" />
 
 </div>
+
