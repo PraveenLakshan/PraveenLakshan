@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=950&lines=Final-Year+Software+Engineering+Undergraduate;Co-Founder+of+LexoraTech;Building+Agentic+AI+%2B+Premium+Digital+Products;Next.js+%7C+TypeScript+%7C+Kotlin+%7C+Java+%7C+PHP+%7C+SQLite;Scalable+Architecture+%2B+Luxury-Grade+User+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=950&lines=Final-Year+Software+Engineering+Undergraduate;Co-Founder+Of+LexoraTech;Building+Agentic+AI+%2B+Premium+Digital+Products;Next.js+%7C+TypeScript+%7C+Kotlin+%7C+Java+%7C+PHP+%7C+SQLite;Scalable+Architecture+%2B+Luxury-Grade+User+Experience" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Product_Engineer-0F172A?style=for-the-badge&logo=sparkpost&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Product_Engineer-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Premium_UI%2FUX-D4AF37?style=for-the-badge&logo=figma&logoColor=111827" />
 <img src="https://img.shields.io/badge/Founder_Mindset-111827?style=for-the-badge&logo=rocket&logoColor=D4AF37" />
@@ -57,72 +57,76 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:020617,40:1E3A8A,100:D4AF37&text=Executive%20Profile&fontColor=F8FAFC&fontSize=34&fontAlignY=50" />
+## 🧭 Executive Profile
+
+<img src="https://img.shields.io/badge/Software_Engineer-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Product_Builder-1E3A8A?style=for-the-badge&logo=producthunt&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Systems-D4AF37?style=for-the-badge&logo=openai&logoColor=111827" />
 
 </div>
 
-I am **Praveen Lakshan**, a final-year **Software Engineering undergraduate** based in **Sri Lanka** and the **Co-Founder of LexoraTech**.
+I Am **Praveen Lakshan**, A Final-Year **Software Engineering Undergraduate** Based In **Sri Lanka** And The **Co-Founder Of LexoraTech**.
 
-My work sits at the intersection of **software engineering**, **product strategy**, **premium interface design**, and **AI-powered systems**. I focus on creating digital products that are not only functional, but also scalable, visually refined, business-aware, and ready for real-world use.
-
-<table>
-<tr>
-<td width="50%" valign="top">
+My Work Sits At The Intersection Of **Software Engineering**, **Product Strategy**, **Premium Interface Design**, And **AI-Powered Systems**. I Focus On Creating Digital Products That Are Not Only Functional, But Also Scalable, Visually Refined, Business-Aware, And Ready For Real-World Use.
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/IDENTITY-0F172A?style=for-the-badge&logo=aboutdotme&logoColor=D4AF37" />
 
-</div>
+<br/><br/>
 
-```txt
-Name       : Praveen Lakshan
-Role       : Software Engineering Undergraduate
-Company    : LexoraTech
-Location   : Sri Lanka
-Focus      : Full-Stack Engineering, AI Systems, Premium UI/UX
-Direction  : Product Engineering + Intelligent Digital Platforms
-```
+<table width="100%">
+<tr><td align="left"><b>Name</b></td><td align="left">Praveen Lakshan</td></tr>
+<tr><td align="left"><b>Role</b></td><td align="left">Software Engineering Undergraduate</td></tr>
+<tr><td align="left"><b>Company</b></td><td align="left">LexoraTech</td></tr>
+<tr><td align="left"><b>Location</b></td><td align="left">Sri Lanka</td></tr>
+<tr><td align="left"><b>Focus</b></td><td align="left">Full-Stack Engineering, AI Systems, Premium UI/UX</td></tr>
+<tr><td align="left"><b>Direction</b></td><td align="left">Product Engineering + Intelligent Digital Platforms</td></tr>
+</table>
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/ENGINEERING_PHILOSOPHY-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white" />
 
-</div>
+<br/><br/>
 
-```txt
-Build      : Scalable, modular, maintainable systems
-Design     : Premium, elegant, conversion-aware interfaces
-Think      : Product-first, user-first, architecture-first
-Explore    : Agentic AI, Generative UI, MCP-based systems
-Goal       : MSc in Software Engineering by late 2028
-```
+<table width="100%">
+<tr><td align="left"><b>Build</b></td><td align="left">Scalable, Modular, Maintainable Systems</td></tr>
+<tr><td align="left"><b>Design</b></td><td align="left">Premium, Elegant, Conversion-Aware Interfaces</td></tr>
+<tr><td align="left"><b>Think</b></td><td align="left">Product-First, User-First, Architecture-First</td></tr>
+<tr><td align="left"><b>Explore</b></td><td align="left">Agentic AI, Generative UI, MCP-Based Systems</td></tr>
+<tr><td align="left"><b>Goal</b></td><td align="left">MSc In Software Engineering By Late 2028</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:020617,35:111827,70:1E3A8A,100:D4AF37&text=Core%20Positioning&fontColor=F8FAFC&fontSize=32&fontAlignY=52" />
-
-<br/>
+## 🧠 Core Positioning
 
 <img src="https://img.shields.io/badge/Software_Engineering-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Product_Thinking-1E3A8A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI_Engineering-D4AF37?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Premium_UI%2FUX-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Premium_UI%2FUX-7C3AED?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="20%" align="center" valign="top">
 
@@ -130,7 +134,7 @@ Goal       : MSc in Software Engineering by late 2028
 
 <br/><br/>
 
-Full-stack systems, mobile apps, backend logic, database-driven platforms
+Full-Stack Systems, Mobile Apps, Backend Logic, Database-Driven Platforms
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -139,7 +143,7 @@ Full-stack systems, mobile apps, backend logic, database-driven platforms
 
 <br/><br/>
 
-Real-world use cases, business value, scalable feature planning
+Real-World Use Cases, Business Value, Scalable Feature Planning
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -148,7 +152,7 @@ Real-world use cases, business value, scalable feature planning
 
 <br/><br/>
 
-Agentic AI, MCP workflows, conversational commerce, intelligent assistants
+Agentic AI, MCP Workflows, Conversational Commerce, Intelligent Assistants
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -157,7 +161,7 @@ Agentic AI, MCP workflows, conversational commerce, intelligent assistants
 
 <br/><br/>
 
-Premium interfaces, luxury-tech design, clean layouts, brand consistency
+Premium Interfaces, Luxury-Tech Design, Clean Layouts, Brand Consistency
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -166,25 +170,34 @@ Premium interfaces, luxury-tech design, clean layouts, brand consistency
 
 <br/><br/>
 
-Ownership, execution, client-focused solutions, long-term product vision
+Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:020617,25:1E1B4B,55:1E3A8A,80:7C3AED,100:D4AF37&text=Current%20Flagship%20Initiatives&fontColor=F8FAFC&fontSize=34&fontAlignY=55" />
+## 🚀 Current Flagship Initiatives
+
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Premium_Web-D4AF37?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Mobile_Product-7C3AED?style=for-the-badge" />
 
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<br/>
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/FLAGSHIP_01-111827?style=for-the-badge&logo=shoppingcart&logoColor=D4AF37" />
 
@@ -195,29 +208,27 @@ Ownership, execution, client-focused solutions, long-term product vision
 <img src="https://img.shields.io/badge/E--Commerce-D4AF37?style=flat-square" />
 <img src="https://img.shields.io/badge/Generative_UI-0F172A?style=flat-square" />
 
-</div>
+<br/><br/>
+
+An **MCP-Powered Conversational E-Commerce Agent** Designed For The **2026 Kapruka Agent Challenge**.
 
 <br/>
 
-An **MCP-powered conversational e-commerce agent** designed for the **2026 Kapruka Agent Challenge**.
+<b>Core Focus</b>
 
-<br/>
+<br/><br/>
 
-**Core Focus**
-
-* Conversational shopping
-* MCP architecture
-* Product discovery intelligence
-* Agentic workflows
-* Generative UI responses
-* E-commerce automation
+Conversational Shopping
+MCP Architecture
+Product Discovery Intelligence
+Agentic Workflows
+Generative UI Responses
+E-Commerce Automation
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/FLAGSHIP_02-1E3A8A?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/FLAGSHIP_02-1E3A8A?style=for-the-badge&logo=sparkpost&logoColor=white" />
 
 ### ✨ Nimithi / නිමිති
 
@@ -226,27 +237,25 @@ An **MCP-powered conversational e-commerce agent** designed for the **2026 Kapru
 <img src="https://img.shields.io/badge/AI_Platform-D4AF37?style=flat-square" />
 <img src="https://img.shields.io/badge/Premium_UI-111827?style=flat-square" />
 
-</div>
+<br/><br/>
+
+A Luxury AI-Driven **AstroVedic Web Platform** Combining Traditional Spiritual Insight With Modern Intelligent Digital Experience.
 
 <br/>
 
-A luxury AI-driven **AstroVedic web platform** combining traditional spiritual insight with modern intelligent digital experience.
+<b>Core Focus</b>
 
-<br/>
+<br/><br/>
 
-**Core Focus**
-
-* AI-powered astrology
-* Premium web interface
-* Sinhala + English support
-* Luxury brand experience
-* Scalable product architecture
-* Modern web engineering
+AI-Powered Astrology
+Premium Web Interface
+Sinhala + English Support
+Luxury Brand Experience
+Scalable Product Architecture
+Modern Web Engineering
 
 </td>
-<td width="33%" valign="top">
-
-<div align="center">
+<td width="33%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/FLAGSHIP_03-D4AF37?style=for-the-badge&logo=android&logoColor=111827" />
 
@@ -257,38 +266,46 @@ A luxury AI-driven **AstroVedic web platform** combining traditional spiritual i
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Mobile_UI-0F172A?style=flat-square" />
 
-</div>
+<br/><br/>
+
+A Modern Android/Mobile Application Project Focused On Refined Mobile Experience, Reliable Architecture, And Practical Usability.
 
 <br/>
 
-A modern Android/mobile application project focused on refined mobile experience, reliable architecture, and practical usability.
+<b>Core Focus</b>
 
-<br/>
+<br/><br/>
 
-**Core Focus**
-
-* Kotlin development
-* SQLite integration
-* Android architecture
-* Mobile-first product flows
-* Clean app structure
-* High-quality UI direction
+Kotlin Development
+SQLite Integration
+Android Architecture
+Mobile-First Product Flows
+Clean App Structure
+High-Quality UI Direction
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=LexoraTech&fontColor=D4AF37&fontSize=42&desc=Software%20Partnership%20%7C%20Premium%20Products%20%7C%20Scalable%20Solutions&descSize=16&descAlignY=78" />
+## 🏢 LexoraTech
+
+<img src="https://img.shields.io/badge/Software_Partnership-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Premium_Products-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable_Solutions-D4AF37?style=for-the-badge&labelColor=111827" />
 
 </div>
 
-LexoraTech is my software partnership focused on building **modern digital products**, **premium web experiences**, and **scalable software solutions**.
+LexoraTech Is My Software Partnership Focused On Building **Modern Digital Products**, **Premium Web Experiences**, And **Scalable Software Solutions**.
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
 
@@ -296,7 +313,7 @@ LexoraTech is my software partnership focused on building **modern digital produ
 
 <br/><br/>
 
-Digital platforms with real business value.
+Digital Platforms With Real Business Value.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -305,7 +322,7 @@ Digital platforms with real business value.
 
 <br/><br/>
 
-Clean, scalable, maintainable systems.
+Clean, Scalable, Maintainable Systems.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -314,7 +331,7 @@ Clean, scalable, maintainable systems.
 
 <br/><br/>
 
-Premium UI/UX with modern aesthetics.
+Premium UI/UX With Modern Aesthetics.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -323,21 +340,26 @@ Premium UI/UX with modern aesthetics.
 
 <br/><br/>
 
-Intelligent workflows and smart product experiences.
+Intelligent Workflows And Smart Product Experiences.
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,35:0F172A,70:1E3A8A,100:020617&text=Technology%20Constellation&fontColor=F8FAFC&fontSize=31&fontAlignY=53" />
+## ⚙️ Technology Constellation
 
-</div>
+<img src="https://img.shields.io/badge/Frontend-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile-D4AF37?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Workflow-7C3AED?style=for-the-badge" />
 
-<div align="center">
+<br/><br/>
 
 ### Frontend Engineering
 
@@ -361,147 +383,88 @@ Intelligent workflows and smart product experiences.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=115&color=0:020617,30:111827,60:1E3A8A,100:D4AF37&text=Technical%20Capability%20Matrix&fontColor=F8FAFC&fontSize=33&fontAlignY=55" />
+## 🧩 Technical Capability Matrix
 
 </div>
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
 <div align="center">
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Languages-1E3A8A?style=for-the-badge&logo=code&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* TypeScript
-* JavaScript
-* Kotlin
-* Java
-* PHP
-* SQL
-* HTML
-* CSS
+TypeScript
+JavaScript
+Kotlin
+Java
+PHP
+SQL
+HTML
+CSS
 
 </td>
-<td width="25%" valign="top">
-
-<div align="center">
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Web-D4AF37?style=for-the-badge&logo=react&logoColor=111827" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Next.js
-* React
-* Tailwind CSS
-* Bootstrap
-* Responsive UI
-* Component systems
-* Landing pages
-* Dashboards
+Next.js
+React
+Tailwind CSS
+Bootstrap
+Responsive UI
+Component Systems
+Landing Pages
+Dashboards
 
 </td>
-<td width="25%" valign="top">
-
-<div align="center">
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Node.js
-* Express.js
-* PHP backend logic
-* REST APIs
-* Authentication flows
-* Server-side validation
-* Database operations
-* Modular architecture
+Node.js
+Express.js
+PHP Backend Logic
+REST APIs
+Authentication Flows
+Server-Side Validation
+Database Operations
+Modular Architecture
 
 </td>
-<td width="25%" valign="top">
-
-<div align="center">
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Mobile_And_Data-7C3AED?style=for-the-badge&logo=android&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Kotlin
-* Android development
-* SQLite
-* MySQL
-* MongoDB
-* Firebase
-* Local persistence
-* Mobile UI flows
+Kotlin
+Android Development
+SQLite
+MySQL
+MongoDB
+Firebase
+Local Persistence
+Mobile UI Flows
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=135&color=0:020617,30:1E1B4B,60:1E3A8A,100:7C3AED&text=AI,%20Agentic%20Systems%20%26%20Generative%20UI&fontColor=F8FAFC&fontSize=30&fontAlignY=50" />
-
-</div>
-
-I am especially interested in how modern software products can become more intelligent through **agentic workflows**, **context-aware assistants**, and **dynamic user interfaces**.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_ENGINEERING_INTERESTS-111827?style=for-the-badge&logo=openai&logoColor=D4AF37" />
-
-</div>
-
-<br/>
-
-* Agentic AI systems
-* MCP-powered application flows
-* Conversational product assistants
-* Generative UI components
-* AI-powered search and recommendation
-* Human-centered automation
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PRODUCT_APPLICATIONS-1E3A8A?style=for-the-badge&logo=target&logoColor=white" />
-
-</div>
-
-<br/>
-
-* Conversational commerce
-* Smart shopping agents
-* AI-powered service platforms
-* Intelligent dashboards
-* Personalized user experiences
-* Workflow automation tools
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+## 🤖 AI, Agentic Systems & Generative UI
 
 <img src="https://img.shields.io/badge/MCP_Workflows-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Conversational_Commerce-1E3A8A?style=for-the-badge" />
@@ -510,15 +473,56 @@ I am especially interested in how modern software products can become more intel
 
 </div>
 
+I Am Especially Interested In How Modern Software Products Can Become More Intelligent Through **Agentic Workflows**, **Context-Aware Assistants**, And **Dynamic User Interfaces**.
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/AI_ENGINEERING_INTERESTS-111827?style=for-the-badge&logo=openai&logoColor=D4AF37" />
+
+<br/><br/>
+
+Agentic AI Systems
+MCP-Powered Application Flows
+Conversational Product Assistants
+Generative UI Components
+AI-Powered Search And Recommendation
+Human-Centered Automation
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/PRODUCT_APPLICATIONS-1E3A8A?style=for-the-badge&logo=target&logoColor=white" />
+
+<br/><br/>
+
+Conversational Commerce
+Smart Shopping Agents
+AI-Powered Service Platforms
+Intelligent Dashboards
+Personalized User Experiences
+Workflow Automation Tools
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:020617,20:111827,50:1E3A8A,75:7C3AED,100:D4AF37&text=Design%20DNA&fontColor=F8FAFC&fontSize=35&fontAlignY=55" />
+## 🎨 Design DNA
 
 </div>
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="20%" align="center" valign="top">
 
@@ -526,7 +530,7 @@ I am especially interested in how modern software products can become more intel
 
 <br/><br/>
 
-Premium, cinematic, futuristic, luxury-tech
+Premium, Cinematic, Futuristic, Luxury-Tech
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -535,7 +539,7 @@ Premium, cinematic, futuristic, luxury-tech
 
 <br/><br/>
 
-Royal blue, gold, deep navy, dark gradients
+Royal Blue, Gold, Deep Navy, Dark Gradients
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -544,7 +548,7 @@ Royal blue, gold, deep navy, dark gradients
 
 <br/><br/>
 
-Clean, elegant, minimal, high-conversion
+Clean, Elegant, Minimal, High-Conversion
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -553,7 +557,7 @@ Clean, elegant, minimal, high-conversion
 
 <br/><br/>
 
-Simple flows, meaningful hierarchy, clear interaction
+Simple Flows, Meaningful Hierarchy, Clear Interaction
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -562,163 +566,157 @@ Simple flows, meaningful hierarchy, clear interaction
 
 <br/><br/>
 
-Modern, trustworthy, polished, product-focused
+Modern, Trustworthy, Polished, Product-Focused
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:020617,35:111827,70:1E3A8A,100:D4AF37&text=Engineering%20Principles&fontColor=F8FAFC&fontSize=33&fontAlignY=55" />
+## 🏗️ Engineering Principles
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Code_Quality-111827?style=for-the-badge&logo=githubactions&logoColor=D4AF37" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Readable and maintainable structure
-* Clear naming conventions
-* Reusable components
-* Modular architecture
-* Clean separation of concerns
-* Practical documentation
+Readable And Maintainable Structure
+Clear Naming Conventions
+Reusable Components
+Modular Architecture
+Clean Separation Of Concerns
+Practical Documentation
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Product_Quality-1E3A8A?style=for-the-badge&logo=rocket&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Real user value
-* Smooth user flows
-* Premium interface feel
-* Performance awareness
-* Scalable feature planning
-* Business-focused execution
+Real User Value
+Smooth User Flows
+Premium Interface Feel
+Performance Awareness
+Scalable Feature Planning
+Business-Focused Execution
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:020617,30:1E3A8A,65:7C3AED,100:D4AF37&text=Featured%20Project%20Architecture%20Thinking&fontColor=F8FAFC&fontSize=29&fontAlignY=55" />
-
-<br/>
+## 📌 Featured Project Architecture Thinking
 
 <img src="https://img.shields.io/badge/Research-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Strategy-1E3A8A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Architecture-D4AF37?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/Execution-7C3AED?style=for-the-badge" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-```txt
-Idea
- └── Research
-      └── Product Strategy
-           └── System Architecture
-                └── UI/UX Direction
-                     └── Database Design
-                          └── API Development
-                               └── Frontend Implementation
-                                    └── Testing & Refinement
-                                         └── Deployment
-                                              └── Continuous Improvement
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:020617,30:111827,60:1E3A8A,100:D4AF37&text=Current%20Learning%20%26%20Growth%20Direction&fontColor=F8FAFC&fontSize=30&fontAlignY=50" />
-
-</div>
+<table width="100%">
+<tr>
+<td align="center">
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Advanced_Engineering-111827?style=for-the-badge&logo=terminal&logoColor=D4AF37" />
-
-</div>
-
-<br/>
-
-* Scalable architecture
-* Full-stack systems
-* Enterprise-grade structure
-* Clean API design
-* Database optimization
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_Product_Development-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
-<br/>
-
-* MCP workflows
-* Agentic AI patterns
-* Generative UI
-* Conversational systems
-* AI-assisted commerce
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Premium_Product_Design-D4AF37?style=for-the-badge&logo=figma&logoColor=111827" />
-
-</div>
-
-<br/>
-
-* Luxury UI systems
-* Design consistency
-* Brand identity
-* UX psychology
-* Conversion-oriented layouts
+<tr><td align="left">💡 <b>Idea</b></td></tr>
+<tr><td align="left">↳ 🔍 <b>Research</b></td></tr>
+<tr><td align="left">↳ 📊 <b>Product Strategy</b></td></tr>
+<tr><td align="left">↳ 🏗️ <b>System Architecture</b></td></tr>
+<tr><td align="left">↳ 🎨 <b>UI/UX Direction</b></td></tr>
+<tr><td align="left">↳ 🗄️ <b>Database Design</b></td></tr>
+<tr><td align="left">↳ 🔌 <b>API Development</b></td></tr>
+<tr><td align="left">↳ ⚛️ <b>Frontend Implementation</b></td></tr>
+<tr><td align="left">↳ 🧪 <b>Testing & Refinement</b></td></tr>
+<tr><td align="left">↳ 🚀 <b>Deployment</b></td></tr>
+<tr><td align="left">↳ ♻️ <b>Continuous Improvement</b></td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:020617,30:0F172A,60:1E3A8A,100:D4AF37&text=GitHub%20Intelligence%20Dashboard&fontColor=F8FAFC&fontSize=31&fontAlignY=55" />
+## 🧪 Current Learning & Growth Direction
 
-<br/>
+</div>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/Advanced_Engineering-111827?style=for-the-badge&logo=terminal&logoColor=D4AF37" />
+
+<br/><br/>
+
+Scalable Architecture
+Full-Stack Systems
+Enterprise-Grade Structure
+Clean API Design
+Database Optimization
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/AI_Product_Development-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+MCP Workflows
+Agentic AI Patterns
+Generative UI
+Conversational Systems
+AI-Assisted Commerce
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/Premium_Product_Design-D4AF37?style=for-the-badge&logo=figma&logoColor=111827" />
+
+<br/><br/>
+
+Luxury UI Systems
+Design Consistency
+Brand Identity
+UX Psychology
+Conversion-Oriented Layouts
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Intelligence Dashboard
 
 <img src="https://img.shields.io/badge/Live_Stats-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Code_Activity-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />
@@ -726,12 +724,12 @@ Idea
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E5E7EB" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PraveenLakshan&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5E7EB&dates=94A3B8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E5E7EB&cache_seconds=21600" />
+<img width="49%" src="https://streak-stats.demolab.com?user=PraveenLakshan&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5E7EB&dates=94A3B8" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenLakshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E5E7EB" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenLakshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E5E7EB&cache_seconds=21600" />
 
 <br/><br/>
 
@@ -749,9 +747,7 @@ Idea
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:020617,35:111827,70:1E3A8A,100:7C3AED&text=Contribution%20Activity&fontColor=F8FAFC&fontSize=33&fontAlignY=55" />
-
-<br/>
+## 📈 Contribution Activity
 
 <img src="https://img.shields.io/badge/Consistency-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Execution-1E3A8A?style=for-the-badge" />
@@ -767,158 +763,143 @@ Idea
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:020617,30:1E3A8A,65:7C3AED,100:D4AF37&text=2026%20Engineering%20Roadmap&fontColor=F8FAFC&fontSize=34&fontAlignY=50" />
+## 🧭 2026 Engineering Roadmap
 
 </div>
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
 <div align="center">
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Q1-111827?style=for-the-badge&logo=target&logoColor=D4AF37" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Strengthen React + Next.js
-* Improve backend architecture
-* Build clean project structure
-* Polish GitHub portfolio
+Strengthen React + Next.js
+Improve Backend Architecture
+Build Clean Project Structure
+Polish GitHub Portfolio
 
 </td>
-<td width="25%" valign="top">
-
-<div align="center">
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Q2-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Develop AI shopping agent
-* Improve MCP workflows
-* Build agentic interfaces
-* Document technical research
+Develop AI Shopping Agent
+Improve MCP Workflows
+Build Agentic Interfaces
+Document Technical Research
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-<div align="center">
+<img src="https://img.shields.io/badge/Q3-D4AF37?style=for-the-badge&logo=sparkpost&logoColor=111827" />
 
-<img src="https://img.shields.io/badge/Q3-D4AF37?style=for-the-badge&logo=sparkles&logoColor=111827" />
+<br/><br/>
 
-</div>
-
-<br/>
-
-* Advance Nimithi platform
-* Improve bilingual UX
-* Strengthen AI integration
-* Enhance premium UI system
+Advance Nimithi Platform
+Improve Bilingual UX
+Strengthen AI Integration
+Enhance Premium UI System
 
 </td>
-<td width="25%" valign="top">
-
-<div align="center">
+<td width="25%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/Q4-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Finalize Luxenova
-* Build production-ready apps
-* Expand LexoraTech portfolio
-* Prepare for MSc pathway
+Finalize Luxenova
+Build Production-Ready Apps
+Expand LexoraTech Portfolio
+Prepare For MSc Pathway
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:020617,35:111827,70:1E3A8A,100:D4AF37&text=Personal%20Operating%20System&fontColor=F8FAFC&fontSize=33&fontAlignY=55" />
+## 🧬 Personal Operating System
 
-</div>
+<img src="https://img.shields.io/badge/Think_Deeply-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Design_Intentionally-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build_Practically-D4AF37?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Scale_Responsibly-7C3AED?style=for-the-badge" />
 
-```txt
-Think deeply.
-Design intentionally.
-Build practically.
-Refine continuously.
-Scale responsibly.
-```
+<br/><br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="20%" align="center"><b>Think Deeply</b></td>
+<td width="20%" align="center"><b>Design Intentionally</b></td>
+<td width="20%" align="center"><b>Build Practically</b></td>
+<td width="20%" align="center"><b>Refine Continuously</b></td>
+<td width="20%" align="center"><b>Scale Responsibly</b></td>
+</tr>
+</table>
 
-<div align="center">
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/How_I_Think-111827?style=for-the-badge&logo=brain&logoColor=D4AF37" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Product-first
-* System-aware
-* User-centered
-* Business-minded
-* Research-driven
+Product-First
+System-Aware
+User-Centered
+Business-Minded
+Research-Driven
 
 </td>
-<td width="33%" valign="top">
-
-<div align="center">
+<td width="33%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/How_I_Build-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Clean structure
-* Modular components
-* Scalable backend
-* Premium interface
-* Continuous iteration
+Clean Structure
+Modular Components
+Scalable Backend
+Premium Interface
+Continuous Iteration
 
 </td>
-<td width="33%" valign="top">
-
-<div align="center">
+<td width="33%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/How_I_Grow-D4AF37?style=for-the-badge&logo=googlescholar&logoColor=111827" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-* Learn by building
-* Study modern systems
-* Improve visual quality
-* Explore AI deeply
-* Aim for global standards
+Learn By Building
+Study Modern Systems
+Improve Visual Quality
+Explore AI Deeply
+Aim For Global Standards
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:020617,35:0F172A,70:1E3A8A,100:7C3AED&text=Knowledge%20Areas%20I%20Am%20Developing&fontColor=F8FAFC&fontSize=30&fontAlignY=55" />
-
-<br/>
+## 🧠 Knowledge Areas I Am Developing
 
 <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=for-the-badge" />
@@ -935,13 +916,15 @@ Scale responsibly.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:020617,30:111827,60:1E3A8A,100:D4AF37&text=Product%20Vision&fontColor=F8FAFC&fontSize=36&fontAlignY=50" />
+## 🏆 Product Vision
 
 </div>
 
-I want to build software that feels complete from every angle:
+I Want To Build Software That Feels Complete From Every Angle:
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="20%" align="center" valign="top">
 
@@ -949,7 +932,7 @@ I want to build software that feels complete from every angle:
 
 <br/><br/>
 
-Solves real problems.
+Solves Real Problems.
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -958,16 +941,16 @@ Solves real problems.
 
 <br/><br/>
 
-Ready to grow.
+Ready To Grow.
 
 </td>
 <td width="20%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Elegant-D4AF37?style=for-the-badge&logo=sparkles&logoColor=111827" />
+<img src="https://img.shields.io/badge/Elegant-D4AF37?style=for-the-badge&logo=sparkpost&logoColor=111827" />
 
 <br/><br/>
 
-Feels premium.
+Feels Premium.
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -976,7 +959,7 @@ Feels premium.
 
 <br/><br/>
 
-Uses AI meaningfully.
+Uses AI Meaningfully.
 
 </td>
 <td width="20%" align="center" valign="top">
@@ -985,34 +968,75 @@ Uses AI meaningfully.
 
 <br/><br/>
 
-Supports business goals.
+Supports Business Goals.
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:020617,30:1E3A8A,65:7C3AED,100:D4AF37&text=Long-Term%20Direction&fontColor=F8FAFC&fontSize=35&fontAlignY=55" />
+## 🔮 Long-Term Direction
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Short--Term-111827?style=for-the-badge" />
+
+<br/><br/>
+
+Build Strong Full-Stack And AI-Powered Products
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Mid--Term-1E3A8A?style=for-the-badge" />
+
+<br/><br/>
+
+Expand LexoraTech With Premium Software Solutions
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Long--Term-D4AF37?style=for-the-badge&labelColor=111827" />
+
+<br/><br/>
+
+Pursue MSc In Software Engineering By Late 2028
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Vision-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+Become A High-Level Software Engineer And Product Architect
+
+</td>
+</tr>
+</table>
 
 </div>
 
-```txt
-Short-Term  : Build strong full-stack and AI-powered products
-Mid-Term    : Expand LexoraTech with premium software solutions
-Long-Term   : Pursue MSc in Software Engineering by late 2028
-Vision      : Become a high-level software engineer and product architect
-```
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Connect%20With%20Me&fontColor=D4AF37&fontSize=36&desc=Let%27s%20Build%20Something%20Useful,%20Elegant,%20And%20Intelligent&descSize=15&descAlignY=78" />
+## 🌐 Connect With Me
 
-<br/>
+<img src="https://img.shields.io/badge/Let%27s_Build_Something-111827?style=for-the-badge&logo=rocket&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Useful-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Elegant-D4AF37?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Intelligent-7C3AED?style=for-the-badge" />
+
+<br/><br/>
 
 <a href="https://bio.link/praveenlakshan">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Bio_Link-D4AF37?style=for-the-badge&logo=linktree&logoColor=black" />
