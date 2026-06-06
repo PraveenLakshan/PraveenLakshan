@@ -189,11 +189,7 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 <img src="https://img.shields.io/badge/Premium_Web-D4AF37?style=for-the-badge&labelColor=111827" />
 <img src="https://img.shields.io/badge/Mobile_Product-7C3AED?style=for-the-badge" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <table width="100%">
 <tr>
@@ -201,36 +197,47 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 
 <img src="https://img.shields.io/badge/FLAGSHIP_01-111827?style=for-the-badge&logo=shoppingcart&logoColor=D4AF37" />
 
-### 🛒 Kapruka AI Shopping Agent
+<br/><br/>
 
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" />
+<h3>🛒 Kapruka AI Shopping Agent</h3>
+
+<img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" />
 <img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=flat-square" />
 <img src="https://img.shields.io/badge/E--Commerce-D4AF37?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative_UI-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative_UI-111827?style=flat-square" />
 
 <br/><br/>
 
-An **MCP-Powered Conversational E-Commerce Agent** Designed For The **2026 Kapruka Agent Challenge**.
+<b>Signature Direction</b>
+
+<br/><br/>
+
+An <b>MCP-Powered Conversational E-Commerce Agent</b> Designed For The <b>2026 Kapruka Agent Challenge</b>.
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center"><b>Core Focus</b></td></tr>
+<tr><td align="center">Conversational Shopping</td></tr>
+<tr><td align="center">MCP Architecture</td></tr>
+<tr><td align="center">Product Discovery Intelligence</td></tr>
+<tr><td align="center">Agentic Workflows</td></tr>
+<tr><td align="center">Generative UI Responses</td></tr>
+<tr><td align="center">E-Commerce Automation</td></tr>
+</table>
 
 <br/>
 
-<b>Core Focus</b>
-
-<br/><br/>
-
-Conversational Shopping
-MCP Architecture
-Product Discovery Intelligence
-Agentic Workflows
-Generative UI Responses
-E-Commerce Automation
+<img src="https://img.shields.io/badge/Commerce_Intelligence-0F172A?style=for-the-badge&logo=target&logoColor=D4AF37" />
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/FLAGSHIP_02-1E3A8A?style=for-the-badge&logo=sparkpost&logoColor=white" />
+<img src="https://img.shields.io/badge/FLAGSHIP_02-1E3A8A?style=for-the-badge&logo=starship&logoColor=white" />
 
-### ✨ Nimithi / නිමිති
+<br/><br/>
+
+<h3>✨ Nimithi / නිමිති</h3>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
 <img src="https://img.shields.io/badge/TypeScript-1E40AF?style=flat-square&logo=typescript&logoColor=white" />
@@ -239,27 +246,36 @@ E-Commerce Automation
 
 <br/><br/>
 
-A Luxury AI-Driven **AstroVedic Web Platform** Combining Traditional Spiritual Insight With Modern Intelligent Digital Experience.
-
-<br/>
-
-<b>Core Focus</b>
+<b>Signature Direction</b>
 
 <br/><br/>
 
-AI-Powered Astrology
-Premium Web Interface
-Sinhala + English Support
-Luxury Brand Experience
-Scalable Product Architecture
-Modern Web Engineering
+A Luxury AI-Driven <b>AstroVedic Web Platform</b> Combining Traditional Spiritual Insight With Modern Intelligent Digital Experience.
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center"><b>Core Focus</b></td></tr>
+<tr><td align="center">AI-Powered Astrology</td></tr>
+<tr><td align="center">Premium Web Interface</td></tr>
+<tr><td align="center">Sinhala + English Support</td></tr>
+<tr><td align="center">Luxury Brand Experience</td></tr>
+<tr><td align="center">Scalable Product Architecture</td></tr>
+<tr><td align="center">Modern Web Engineering</td></tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Luxury_AI_Platform-1E3A8A?style=for-the-badge&logo=sparkpost&logoColor=white" />
 
 </td>
 <td width="33%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/FLAGSHIP_03-D4AF37?style=for-the-badge&logo=android&logoColor=111827" />
 
-### 📱 Luxenova
+<br/><br/>
+
+<h3>📱 Luxenova</h3>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -268,20 +284,27 @@ Modern Web Engineering
 
 <br/><br/>
 
-A Modern Android/Mobile Application Project Focused On Refined Mobile Experience, Reliable Architecture, And Practical Usability.
-
-<br/>
-
-<b>Core Focus</b>
+<b>Signature Direction</b>
 
 <br/><br/>
 
-Kotlin Development
-SQLite Integration
-Android Architecture
-Mobile-First Product Flows
-Clean App Structure
-High-Quality UI Direction
+A Modern Android/Mobile Application Project Focused On Refined Mobile Experience, Reliable Architecture, And Practical Usability.
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center"><b>Core Focus</b></td></tr>
+<tr><td align="center">Kotlin Development</td></tr>
+<tr><td align="center">SQLite Integration</td></tr>
+<tr><td align="center">Android Architecture</td></tr>
+<tr><td align="center">Mobile-First Product Flows</td></tr>
+<tr><td align="center">Clean App Structure</td></tr>
+<tr><td align="center">High-Quality UI Direction</td></tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Mobile_Product_System-7C3AED?style=for-the-badge&logo=android&logoColor=white" />
 
 </td>
 </tr>
@@ -634,21 +657,68 @@ Business-Focused Execution
 
 <table width="100%">
 <tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/01-Discover-111827?style=for-the-badge&logo=search&logoColor=D4AF37" />
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center">💡 <b>Idea</b></td></tr>
+<tr><td align="center">🔍 <b>Research</b></td></tr>
+<tr><td align="center">📊 <b>Product Strategy</b></td></tr>
+</table>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-Architect-1E3A8A?style=for-the-badge&logo=blueprint&logoColor=white" />
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center">🏗️ <b>System Architecture</b></td></tr>
+<tr><td align="center">🎨 <b>UI/UX Direction</b></td></tr>
+<tr><td align="center">🗄️ <b>Database Design</b></td></tr>
+</table>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-Build-D4AF37?style=for-the-badge&logo=code&logoColor=111827" />
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center">🔌 <b>API Development</b></td></tr>
+<tr><td align="center">⚛️ <b>Frontend Implementation</b></td></tr>
+<tr><td align="center">🧪 <b>Testing & Refinement</b></td></tr>
+</table>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/04-Scale-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center">🚀 <b>Deployment</b></td></tr>
+<tr><td align="center">♻️ <b>Continuous Improvement</b></td></tr>
+<tr><td align="center">✨ <b>Premium Product Refinement</b></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
 <td align="center">
 
-<table>
-<tr><td align="left">💡 <b>Idea</b></td></tr>
-<tr><td align="left">↳ 🔍 <b>Research</b></td></tr>
-<tr><td align="left">↳ 📊 <b>Product Strategy</b></td></tr>
-<tr><td align="left">↳ 🏗️ <b>System Architecture</b></td></tr>
-<tr><td align="left">↳ 🎨 <b>UI/UX Direction</b></td></tr>
-<tr><td align="left">↳ 🗄️ <b>Database Design</b></td></tr>
-<tr><td align="left">↳ 🔌 <b>API Development</b></td></tr>
-<tr><td align="left">↳ ⚛️ <b>Frontend Implementation</b></td></tr>
-<tr><td align="left">↳ 🧪 <b>Testing & Refinement</b></td></tr>
-<tr><td align="left">↳ 🚀 <b>Deployment</b></td></tr>
-<tr><td align="left">↳ ♻️ <b>Continuous Improvement</b></td></tr>
-</table>
+<b>Idea</b> → <b>Research</b> → <b>Product Strategy</b> → <b>System Architecture</b> → <b>UI/UX Direction</b> → <b>Database Design</b> → <b>API Development</b> → <b>Frontend Implementation</b> → <b>Testing & Refinement</b> → <b>Deployment</b> → <b>Continuous Improvement</b>
 
 </td>
 </tr>
