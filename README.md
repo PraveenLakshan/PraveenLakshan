@@ -235,16 +235,16 @@ A <b>Premium Online Store</b> Built For Desk, School, Office, Tech, Gift, And Ev
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/FLAGSHIP_02-1E3A8A?style=for-the-badge&logo=starship&logoColor=white" />
+<img src="https://img.shields.io/badge/FLAGSHIP_02-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 <br/><br/>
 
-<h3>✨ Nimithi / නිමිති</h3>
+<h3>🧰 Lexora Apps</h3>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/TypeScript-1E40AF?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Platform-D4AF37?style=flat-square" />
-<img src="https://img.shields.io/badge/Premium_UI-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/34%2B_Tools-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/Creator_Tools-1E40AF?style=flat-square" />
+<img src="https://img.shields.io/badge/Productivity-D4AF37?style=flat-square" />
+<img src="https://img.shields.io/badge/Browser_Based-111827?style=flat-square" />
 
 <br/><br/>
 
@@ -252,23 +252,25 @@ A <b>Premium Online Store</b> Built For Desk, School, Office, Tech, Gift, And Ev
 
 <br/><br/>
 
-A Luxury AI-Driven <b>AstroVedic Web Platform</b> Combining Traditional Spiritual Insight With Modern Intelligent Digital Experience.
+A Premium <b>Creator And Productivity Workspace</b> Built With Powerful Browser-Based Utilities For Design, Video, Audio, Developer, Utility, And Career Workflows.
 
 <br/><br/>
 
 <table width="100%">
 <tr><td align="center"><b>Core Focus</b></td></tr>
-<tr><td align="center">AI-Powered Astrology</td></tr>
-<tr><td align="center">Premium Web Interface</td></tr>
-<tr><td align="center">Sinhala + English Support</td></tr>
-<tr><td align="center">Luxury Brand Experience</td></tr>
-<tr><td align="center">Scalable Product Architecture</td></tr>
-<tr><td align="center">Modern Web Engineering</td></tr>
+<tr><td align="center">Image Editing And Design Tools</td></tr>
+<tr><td align="center">Video And Content Utilities</td></tr>
+<tr><td align="center">Audio And Voice Tools</td></tr>
+<tr><td align="center">Developer Productivity Tools</td></tr>
+<tr><td align="center">File Conversion And Utilities</td></tr>
+<tr><td align="center">Privacy-First Browser Workflows</td></tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Luxury_AI_Platform-1E3A8A?style=for-the-badge&logo=sparkpost&logoColor=white" />
+<a href="https://apps.lexoratech.com/">
+  <img src="https://img.shields.io/badge/Visit_Lexora_Apps-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -796,22 +798,65 @@ Conversion-Oriented Layouts
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E5E7EB&cache_seconds=21600" />
-<img width="49%" src="https://streak-stats.demolab.com?user=PraveenLakshan&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5E7EB&dates=94A3B8" />
+<img width="68%" src="https://streak-stats.demolab.com?user=PraveenLakshan&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenLakshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E5E7EB&cache_seconds=21600" />
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Profile_Focus-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenLakshan&theme=github_dark" />
+Product Engineering
+Premium UI/UX
+AI Systems
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Code_Direction-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 <br/><br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenLakshan&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraveenLakshan&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraveenLakshan&theme=github_dark&utcOffset=5.5" />
+Next.js
+TypeScript
+Kotlin
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Build_Mode-D4AF37?style=for-the-badge&logo=rocket&logoColor=111827" />
+
+<br/><br/>
+
+Scalable Apps
+Clean Systems
+Real Products
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Growth_Path-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+<br/><br/>
+
+Research-Based
+MSc Direction
+Global Standards
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend_Next.js_React_TypeScript-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile_Kotlin_Android_SQLite-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agentic_UI_MCP_Workflows-D4AF37?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Product_Premium_UIUX_LexoraTech-7C3AED?style=for-the-badge" />
 
 </div>
 
