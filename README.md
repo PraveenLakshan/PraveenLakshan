@@ -1102,8 +1102,8 @@ Become A High-Level Software Engineer And Product Architect
 
 <br/><br/>
 
-<a href="https://bio.link/praveenlakshan">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Bio_Link-D4AF37?style=for-the-badge&logo=linktree&logoColor=black" />
+<a href="https://praveenlakshan.me/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-D4AF37?style=for-the-badge&logo=linktree&logoColor=black" />
 </a>
 
 <a href="https://lk.linkedin.com/in/praveenlakshan">
