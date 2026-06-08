@@ -18,8 +18,8 @@
 
 <br/><br/>
 
-<a href="https://bio.link/praveenlakshan">
-  <img src="https://img.shields.io/badge/Bio.Link-0B1120?style=for-the-badge&logo=linktree&logoColor=D4AF37" />
+<a href="https://praveenlakshan.me/">
+  <img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=linktree&logoColor=D4AF37" />
 </a>
 <a href="https://lk.linkedin.com/in/praveenlakshan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
