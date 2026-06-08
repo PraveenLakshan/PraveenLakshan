@@ -55,9 +55,9 @@
 
 ---
 
-<div align="left">
+<h2 align="left">Executive Profile</h2>
 
-## Executive Profile
+<div align="center">
 
 <img src="https://img.shields.io/badge/Software_Engineer-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Product_Builder-1E3A8A?style=for-the-badge&logo=producthunt&logoColor=white" />
@@ -65,9 +65,13 @@
 
 </div>
 
+<div align="center">
+
 I Am **Praveen Lakshan**, A Final-Year **Software Engineering Undergraduate** Based In **Sri Lanka** 
 
 My Work Sits At The Intersection Of **Software Engineering**, **Product Strategy**, **Premium Interface Design**, And **AI-Powered Systems**. I Focus On Creating Digital Products That Are Not Only Functional, But Also Scalable, Visually Refined, Business-Aware, And Ready For Real-World Use.
+
+</div>
 
 <div align="center">
 
@@ -110,9 +114,9 @@ My Work Sits At The Intersection Of **Software Engineering**, **Product Strategy
 
 ---
 
-<div align="left">
+<h2 align="left">Core Positioning</h2>
 
-## Core Positioning
+<div align="center">
 
 <img src="https://img.shields.io/badge/Software_Engineering-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Product_Thinking-1E3A8A?style=for-the-badge" />
@@ -179,9 +183,9 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 
 ---
 
-<div align="left">
+<h2 align="left">Current Flagship Initiatives</h2>
 
-## Current Flagship Initiatives
+<div align="center">
 
 <img src="https://img.shields.io/badge/E--Commerce-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Premium_Web-1E3A8A?style=for-the-badge" />
@@ -317,9 +321,9 @@ A Modern Android/Mobile Application Project Focused On Refined Mobile Experience
 
 ---
 
-<div align="left">
+<h2 align="left">Technology Constellation</h2>
 
-## Technology Constellation
+<div align="center">
 
 <img src="https://img.shields.io/badge/Frontend-1E3A8A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" />
@@ -348,9 +352,9 @@ A Modern Android/Mobile Application Project Focused On Refined Mobile Experience
 
 ---
 
-<div align="left">
+<h2 align="left">Technical Capability Matrix</h2>
 
-## Technical Capability Matrix
+<div align="center">
 
 </div>
 
@@ -429,9 +433,9 @@ Mobile UI Flows
 
 ---
 
-<div align="left">
+<h2 align="left">AI, Agentic Systems & Generative UI</h2>
 
-## AI, Agentic Systems & Generative UI
+<div align="center">
 
 <img src="https://img.shields.io/badge/MCP_Workflows-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Conversational_Commerce-1E3A8A?style=for-the-badge" />
@@ -440,7 +444,11 @@ Mobile UI Flows
 
 </div>
 
+<div align="center">
+
 I Am Especially Interested In How Modern Software Products Can Become More Intelligent Through **Agentic Workflows**, **Context-Aware Assistants**, And **Dynamic User Interfaces**.
+
+</div>
 
 <div align="center">
 
@@ -481,9 +489,9 @@ Workflow Automation Tools
 
 ---
 
-<div align="left">
+<h2 align="left">Design DNA</h2>
 
-## Design DNA
+<div align="center">
 
 </div>
 
@@ -543,9 +551,9 @@ Modern, Trustworthy, Polished, Product-Focused
 
 ---
 
-<div align="left">
+<h2 align="left">Engineering Principles</h2>
 
-## Engineering Principles
+<div align="center">
 
 </div>
 
@@ -588,9 +596,9 @@ Business-Focused Execution
 
 ---
 
-<div align="left">
+<h2 align="left">Featured Project Architecture Thinking</h2>
 
-## Featured Project Architecture Thinking
+<div align="center">
 
 <img src="https://img.shields.io/badge/Research-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Strategy-1E3A8A?style=for-the-badge" />
@@ -672,9 +680,9 @@ Business-Focused Execution
 
 ---
 
-<div align="left">
+<h2 align="left">Current Learning & Growth Direction</h2>
 
-## Current Learning & Growth Direction
+<div align="center">
 
 </div>
 
@@ -728,9 +736,9 @@ Conversion-Oriented Layouts
 
 ---
 
-<div align="left">
+<h2 align="left">GitHub Intelligence Dashboard</h2>
 
-## GitHub Intelligence Dashboard
+<div align="center">
 
 <img src="https://img.shields.io/badge/Live_Stats-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Code_Activity-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />
@@ -802,9 +810,9 @@ Global Standards
 
 ---
 
-<div align="left">
+<h2 align="left">Contribution Activity</h2>
 
-## Contribution Activity
+<div align="center">
 
 <img src="https://img.shields.io/badge/Consistency-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Execution-1E3A8A?style=for-the-badge" />
@@ -818,9 +826,9 @@ Global Standards
 
 ---
 
-<div align="left">
+<h2 align="left">2026 Engineering Roadmap</h2>
 
-## 2026 Engineering Roadmap
+<div align="center">
 
 </div>
 
@@ -883,9 +891,9 @@ Prepare For MSc Pathway
 
 ---
 
-<div align="left">
+<h2 align="left">Personal Operating System</h2>
 
-## Personal Operating System
+<div align="center">
 
 <img src="https://img.shields.io/badge/Think_Deeply-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Design_Intentionally-1E3A8A?style=for-the-badge" />
@@ -954,9 +962,9 @@ Aim For Global Standards
 
 ---
 
-<div align="left">
+<h2 align="left">Knowledge Areas I Am Developing</h2>
 
-## Knowledge Areas I Am Developing
+<div align="center">
 
 <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=for-the-badge" />
@@ -971,9 +979,9 @@ Aim For Global Standards
 
 ---
 
-<div align="left">
+<h2 align="left">Product Vision</h2>
 
-## Product Vision
+<div align="center">
 
 </div>
 
@@ -1034,9 +1042,9 @@ Supports Business Goals.
 
 ---
 
-<div align="left">
+<h2 align="left">Long-Term Direction</h2>
 
-## Long-Term Direction
+<div align="center">
 
 <table width="100%">
 <tr>
@@ -1083,9 +1091,9 @@ Become A High-Level Software Engineer And Product Architect
 
 ---
 
-<div align="left">
+<h2 align="left">Connect With Me</h2>
 
-## Connect With Me
+<div align="center">
 
 <img src="https://img.shields.io/badge/Let%27s_Build_Something-111827?style=for-the-badge&logo=rocket&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Useful-1E3A8A?style=for-the-badge" />
@@ -1125,4 +1133,5 @@ Become A High-Level Software Engineer And Product Architect
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,45:1E3A8A,100:D4AF37" />
 
 </div>
+
 
