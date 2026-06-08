@@ -1133,5 +1133,3 @@ Become A High-Level Software Engineer And Product Architect
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,45:1E3A8A,100:D4AF37" />
 
 </div>
-
-
