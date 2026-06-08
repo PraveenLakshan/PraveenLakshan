@@ -82,7 +82,6 @@ My Work Sits At The Intersection Of **Software Engineering**, **Product Strategy
 <table width="100%">
 <tr><td align="left"><b>Name</b></td><td align="left">Praveen Lakshan</td></tr>
 <tr><td align="left"><b>Role</b></td><td align="left">Software Engineering Undergraduate</td></tr>
-<tr><td align="left"><b>Company</b></td><td align="left">LexoraTech</td></tr>
 <tr><td align="left"><b>Location</b></td><td align="left">Sri Lanka</td></tr>
 <tr><td align="left"><b>Focus</b></td><td align="left">Full-Stack Engineering, AI Systems, Premium UI/UX</td></tr>
 <tr><td align="left"><b>Direction</b></td><td align="left">Product Engineering + Intelligent Digital Platforms</td></tr>
