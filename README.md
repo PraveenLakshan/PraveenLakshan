@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=950&lines=Final-Year+Software+Engineering+Undergraduate;Co-Founder+Of+LexoraTech;Building+Agentic+AI+%2B+Premium+Digital+Products;Next.js+%7C+TypeScript+%7C+Kotlin+%7C+Java+%7C+PHP+%7C+SQLite;Scalable+Architecture+%2B+Luxury-Grade+User+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=950&lines=Final-Year+Software+Engineering+Undergraduate;Building+Agentic+AI+%2B+Premium+Digital+Products;Next.js+%7C+TypeScript+%7C+Kotlin+%7C+Java+%7C+PHP+%7C+SQLite;Scalable+Architecture+%2B+Luxury-Grade+User+Experience" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -55,9 +55,9 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧭 Executive Profile
+## Executive Profile
 
 <img src="https://img.shields.io/badge/Software_Engineer-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Product_Builder-1E3A8A?style=for-the-badge&logo=producthunt&logoColor=white" />
@@ -65,7 +65,7 @@
 
 </div>
 
-I Am **Praveen Lakshan**, A Final-Year **Software Engineering Undergraduate** Based In **Sri Lanka** And The **Co-Founder Of LexoraTech**.
+I Am **Praveen Lakshan**, A Final-Year **Software Engineering Undergraduate** Based In **Sri Lanka** 
 
 My Work Sits At The Intersection Of **Software Engineering**, **Product Strategy**, **Premium Interface Design**, And **AI-Powered Systems**. I Focus On Creating Digital Products That Are Not Only Functional, But Also Scalable, Visually Refined, Business-Aware, And Ready For Real-World Use.
 
@@ -111,9 +111,9 @@ My Work Sits At The Intersection Of **Software Engineering**, **Product Strategy
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧠 Core Positioning
+## Core Positioning
 
 <img src="https://img.shields.io/badge/Software_Engineering-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Product_Thinking-1E3A8A?style=for-the-badge" />
@@ -180,9 +180,9 @@ Ownership, Execution, Client-Focused Solutions, Long-Term Product Vision
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🚀 Current Flagship Initiatives
+## Current Flagship Initiatives
 
 <img src="https://img.shields.io/badge/E--Commerce-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Premium_Web-1E3A8A?style=for-the-badge" />
@@ -318,68 +318,9 @@ A Modern Android/Mobile Application Project Focused On Refined Mobile Experience
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🏢 LexoraTech
-
-<img src="https://img.shields.io/badge/Software_Partnership-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Premium_Products-1E3A8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scalable_Solutions-D4AF37?style=for-the-badge&labelColor=111827" />
-
-</div>
-
-LexoraTech Is My Software Partnership Focused On Building **Modern Digital Products**, **Premium Web Experiences**, And **Scalable Software Solutions**.
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/Product-1E3A8A?style=for-the-badge&logo=producthunt&logoColor=white" />
-
-<br/><br/>
-
-Digital Platforms With Real Business Value.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/Engineering-111827?style=for-the-badge&logo=codeforces&logoColor=D4AF37" />
-
-<br/><br/>
-
-Clean, Scalable, Maintainable Systems.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/Design-D4AF37?style=for-the-badge&logo=figma&logoColor=111827" />
-
-<br/><br/>
-
-Premium UI/UX With Modern Aesthetics.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-
-<br/><br/>
-
-Intelligent Workflows And Smart Product Experiences.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ Technology Constellation
+## Technology Constellation
 
 <img src="https://img.shields.io/badge/Frontend-1E3A8A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" />
@@ -408,9 +349,9 @@ Intelligent Workflows And Smart Product Experiences.
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧩 Technical Capability Matrix
+## Technical Capability Matrix
 
 </div>
 
@@ -489,9 +430,9 @@ Mobile UI Flows
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🤖 AI, Agentic Systems & Generative UI
+## AI, Agentic Systems & Generative UI
 
 <img src="https://img.shields.io/badge/MCP_Workflows-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Conversational_Commerce-1E3A8A?style=for-the-badge" />
@@ -541,9 +482,9 @@ Workflow Automation Tools
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🎨 Design DNA
+## Design DNA
 
 </div>
 
@@ -603,9 +544,9 @@ Modern, Trustworthy, Polished, Product-Focused
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🏗️ Engineering Principles
+## Engineering Principles
 
 </div>
 
@@ -648,9 +589,9 @@ Business-Focused Execution
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 📌 Featured Project Architecture Thinking
+## Featured Project Architecture Thinking
 
 <img src="https://img.shields.io/badge/Research-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Strategy-1E3A8A?style=for-the-badge" />
@@ -668,9 +609,9 @@ Business-Focused Execution
 <br/><br/>
 
 <table width="100%">
-<tr><td align="center">💡 <b>Idea</b></td></tr>
-<tr><td align="center">🔍 <b>Research</b></td></tr>
-<tr><td align="center">📊 <b>Product Strategy</b></td></tr>
+<tr><td align="center"><b>Idea</b></td></tr>
+<tr><td align="center"><b>Research</b></td></tr>
+<tr><td align="center"><b>Product Strategy</b></td></tr>
 </table>
 
 </td>
@@ -681,9 +622,9 @@ Business-Focused Execution
 <br/><br/>
 
 <table width="100%">
-<tr><td align="center">🏗️ <b>System Architecture</b></td></tr>
-<tr><td align="center">🎨 <b>UI/UX Direction</b></td></tr>
-<tr><td align="center">🗄️ <b>Database Design</b></td></tr>
+<tr><td align="center"><b>System Architecture</b></td></tr>
+<tr><td align="center"><b>UI/UX Direction</b></td></tr>
+<tr><td align="center"><b>Database Design</b></td></tr>
 </table>
 
 </td>
@@ -694,9 +635,9 @@ Business-Focused Execution
 <br/><br/>
 
 <table width="100%">
-<tr><td align="center">🔌 <b>API Development</b></td></tr>
-<tr><td align="center">⚛️ <b>Frontend Implementation</b></td></tr>
-<tr><td align="center">🧪 <b>Testing & Refinement</b></td></tr>
+<tr><td align="center"><b>API Development</b></td></tr>
+<tr><td align="center"><b>Frontend Implementation</b></td></tr>
+<tr><td align="center"><b>Testing & Refinement</b></td></tr>
 </table>
 
 </td>
@@ -707,9 +648,9 @@ Business-Focused Execution
 <br/><br/>
 
 <table width="100%">
-<tr><td align="center">🚀 <b>Deployment</b></td></tr>
-<tr><td align="center">♻️ <b>Continuous Improvement</b></td></tr>
-<tr><td align="center">✨ <b>Premium Product Refinement</b></td></tr>
+<tr><td align="center"><b>Deployment</b></td></tr>
+<tr><td align="center"><b>Continuous Improvement</b></td></tr>
+<tr><td align="center"><b>Premium Product Refinement</b></td></tr>
 </table>
 
 </td>
@@ -732,9 +673,9 @@ Business-Focused Execution
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧪 Current Learning & Growth Direction
+## Current Learning & Growth Direction
 
 </div>
 
@@ -788,9 +729,9 @@ Conversion-Oriented Layouts
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 📊 GitHub Intelligence Dashboard
+## GitHub Intelligence Dashboard
 
 <img src="https://img.shields.io/badge/Live_Stats-111827?style=for-the-badge&logo=github&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Code_Activity-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />
@@ -862,9 +803,9 @@ Global Standards
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <img src="https://img.shields.io/badge/Consistency-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Execution-1E3A8A?style=for-the-badge" />
@@ -878,9 +819,9 @@ Global Standards
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧭 2026 Engineering Roadmap
+## 2026 Engineering Roadmap
 
 </div>
 
@@ -943,9 +884,9 @@ Prepare For MSc Pathway
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧬 Personal Operating System
+## Personal Operating System
 
 <img src="https://img.shields.io/badge/Think_Deeply-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Design_Intentionally-1E3A8A?style=for-the-badge" />
@@ -1014,9 +955,9 @@ Aim For Global Standards
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🧠 Knowledge Areas I Am Developing
+## Knowledge Areas I Am Developing
 
 <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agentic_AI-1E3A8A?style=for-the-badge" />
@@ -1031,13 +972,12 @@ Aim For Global Standards
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🏆 Product Vision
+## Product Vision
 
 </div>
 
-I Want To Build Software That Feels Complete From Every Angle:
 
 <div align="center">
 
@@ -1095,9 +1035,9 @@ Supports Business Goals.
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🔮 Long-Term Direction
+## Long-Term Direction
 
 <table width="100%">
 <tr>
@@ -1144,9 +1084,9 @@ Become A High-Level Software Engineer And Product Architect
 
 ---
 
-<div align="center">
+<div align="left">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <img src="https://img.shields.io/badge/Let%27s_Build_Something-111827?style=for-the-badge&logo=rocket&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Useful-1E3A8A?style=for-the-badge" />
