@@ -123,7 +123,9 @@ I am **Praveen Lakshan**, a Final-Year Software Engineering Undergraduate based 
 <h2 align="left">GitHub Intelligence</h2>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=PraveenLakshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E5E7EB&show_icons=true" alt="GitHub General Stats" />
+  <img src="https://img.shields.io/badge/Core_Stack-Next.js_%7C_Kotlin_%7C_PHP-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=111827" alt="Core Stack" />
+  <img src="https://img.shields.io/badge/Specialization-Agentic_AI_%7C_Premium_UI-0D1117?style=for-the-badge&logo=openai&logoColor=D4AF37&labelColor=111827" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Product_Architecture-0D1117?style=for-the-badge&logo=rocket&logoColor=D4AF37&labelColor=111827" alt="Focus" />
   <br/><br/>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenLakshan&bg_color=0D1117&color=E5E7EB&line=D4AF37&point=60A5FA&area=true&hide_border=true" alt="Activity Graph" />
 </div>
